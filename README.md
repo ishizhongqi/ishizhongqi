@@ -1,2 +1,2 @@
-# MandalaHome
-MandalaHome
+# ShizqTest
+ShizqTest
