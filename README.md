@@ -23,12 +23,4 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
-## 📫 Let's Connect!
-- **Email:** email@shizhongqi.com
-- **QQ:** 1174094849
-- **LinkedIn:** [shizhongqi](https://www.linkedin.com/in/shizhongqi)
-- **Twitter:** [Shizhongqi](https://x.com/ishizhongqi)
-
----
-
 Thanks for stopping by! Have a great day! 🌟
