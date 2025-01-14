@@ -1,20 +1,18 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Shizhongqi! 👋
 
 Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** [e.g., JavaScript, Python, C++]
-- **Frameworks & Libraries:** [e.g., React, Django, TensorFlow]
-- **Databases:** [e.g., MySQL, MongoDB, PostgreSQL]
-- **Other Tools:** [e.g., Docker, Git, VS Code]
+- **Languages:** C, C++
+- **Databases:** MySQL
+- **Other:** Linux
 
 ---
 
 ## 🌟 Projects
-- [**Prepared Statement Test For MySQL**](#): A project focused on [brief project description].
-- [Another Cool Project](#): [Brief description of the project].
+- [**Prepared Statement Test For MySQL**](https://github.com/ishizhongqi/Prepared-Statement-Test-For-MySQL).
 
 ---
 
@@ -26,9 +24,10 @@ Welcome to my GitHub profile! Here's a bit about me:
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website](#)
+- **Email:** email@shizhongqi.com
+- **QQ:** 1174094849
+- **LinkedIn:** [shizhongqi](https://www.linkedin.com/in/shizhongqi)
+- **Twitter:** [Shizhongqi](https://x.com/ishizhongqi)
 
 ---
 
