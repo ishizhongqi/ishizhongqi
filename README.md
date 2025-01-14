@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ---
 
 ## 🌟 Projects
-- [**Prepared statement test for MySQL**](https://github.com/ishizhongqi/Prepared-Statement-Test-For-MySQL).
+- [**Prepared statement test for MySQL**](https://github.com/ishizhongqi/prepared-statement-test-for-mysql).
 
 ---
 
