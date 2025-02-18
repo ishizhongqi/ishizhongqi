@@ -5,14 +5,15 @@ Welcome to my GitHub profile! Here's a bit about me:
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** C, C++
+- **Languages:** C/C++
 - **Databases:** MySQL
 - **Other:** Linux
 
 ---
 
 ## 🌟 Projects
-- [**Prepared statement test for MySQL**](https://github.com/ishizhongqi/prepared-statement-test-for-mysql).
+- [**Prepared statement test for MySQL**](https://github.com/ishizhongqi/prepared-statement-test-for-mysql)
+- [**cfaker**](https://github.com/ishizhongqi/cfaker)
 
 ---
 
